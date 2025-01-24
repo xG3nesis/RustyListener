@@ -76,6 +76,7 @@ In a nutshell, the exploitation involves discovering the target device through a
 <p align="center">
 <img src="_resources/exploitation_path_rusty_listener.png" alt="exploitation_path_rusty_listener.png" width="686" height="654">
 </p>
+
 **Diagram 2** : Illustration of the two exploitation path possible for Rusty Listener.
 
 ### 2\. How was it implemented ?
